@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.1] 2023-01-06 
+### Changes
+
+- Update LICENSE
+- Listing on AppSeed:
+  - [Flask Berry PRO](https://appseed.us/product/berry-dashboard-pro/flask/)
+
 ## [1.0.0] 2023-01-06 
 ### Changes
 

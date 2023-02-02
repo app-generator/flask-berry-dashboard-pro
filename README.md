@@ -11,7 +11,7 @@ Premium **Flask Dashboard** project crafted on top of **[Berry PRO](https://apps
 > Features
 
 - ✅ `Up-to-date dependencies`
-- ✅ `UI Kit`: Berry Bootstrap 5 by `CodedThemes`
+- ✅ `UI Kit`: [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) by `CodedThemes`
 - ✅ `Database`: `SQLite`, MySql
   - Silent fallback to `SQLite`  
 - ✅ `DB Tools`: SQLAlchemy ORM, `Flask-Migrate`
